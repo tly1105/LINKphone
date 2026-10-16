@@ -1,4 +1,0 @@
-module GeolocationPlugin {
-header "GeolocationPlugin-Swift.h"
-export *
-}

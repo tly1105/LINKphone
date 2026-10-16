@@ -1,4 +1,0 @@
-module ClipboardPlugin {
-header "ClipboardPlugin-Swift.h"
-export *
-}
